@@ -6,6 +6,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Modify program to keep track of card count and to display the count after each card.
+ * The program should end when the user enters X
+ * Display an error message if the card is invalid
+ */
+
 int main()
 {
 	char card_name[3];
