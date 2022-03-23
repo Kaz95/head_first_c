@@ -1,0 +1,2 @@
+https://realpython.com/python-json/
+https://www.delftstack.com/howto/python/python-create-file-if-not-exists/
